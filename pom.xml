@@ -86,8 +86,7 @@
                     <sources>
                         <source>src/main/resources/book.xsd</source>
                     </sources>
-                    <packageName>com.springboot.soap.example.jaxb.pojos</packageName>
-                    <outputDirectory>src/main/java</outputDirectory>
+                    <packageName>org.springboot.jaxb.pojos</packageName>
                 </configuration>
             </plugin>
         </plugins>
